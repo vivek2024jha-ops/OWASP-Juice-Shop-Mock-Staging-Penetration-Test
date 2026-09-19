@@ -1,7 +1,5 @@
 # OWASP-Juice-Shop-Mock-Staging-Penetration-Test 
 
-# OWASP-Juice-Shop-Mock-Staging-Penetration-Test
-
 ## Project Overview
 
 The OWASP Juice Shop Mock Staging Penetration Testing Lab is a hands-on cybersecurity project focused on performing a controlled penetration test against an intentionally vulnerable web application in an isolated local environment.
