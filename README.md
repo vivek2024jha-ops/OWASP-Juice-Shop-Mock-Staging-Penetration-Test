@@ -372,6 +372,9 @@ Screenshot showing the installed Docker version used to deploy the mock staging 
 
 `01-docker-installed.png`
 
+<img width="1600" height="768" alt="01-docker-installed png" src="https://github.com/user-attachments/assets/91ee9b45-e550-430a-9176-13613a5b5776" />
+
+
 ## OWASP Juice Shop Container Running
 
 Screenshot showing the OWASP Juice Shop Docker container running and exposing port `3000`.
@@ -379,6 +382,9 @@ Screenshot showing the OWASP Juice Shop Docker container running and exposing po
 **02 - Juice Shop Container Running**
 
 `02-juice-shop-container-running.png`
+
+<img width="1600" height="768" alt="02-juice-shop-container-running png" src="https://github.com/user-attachments/assets/d4c3f8c9-3553-49e5-beb9-badc191582e4" />
+
 
 ## Mock Staging Environment
 
@@ -388,6 +394,9 @@ Screenshot showing the OWASP Juice Shop application successfully running at `loc
 
 `03-mock-staging-environment.png`
 
+<img width="1600" height="768" alt="03-mock-staging-environment png" src="https://github.com/user-attachments/assets/4c360471-9d42-4cc8-9dc7-0366513d49ea" />
+
+
 ## Nmap Reconnaissance
 
 Screenshot showing the Nmap scan identifying the open TCP port `3000` and HTTP response from the application.
@@ -395,6 +404,9 @@ Screenshot showing the Nmap scan identifying the open TCP port `3000` and HTTP r
 **04 - Reconnaissance**
 
 `04-recon.png`
+
+<img width="1600" height="768" alt="04-recon png" src="https://github.com/user-attachments/assets/ab740b4f-3168-47e4-b3a6-c37d35735084" />
+
 
 ## HTTP Enumeration
 
@@ -404,6 +416,9 @@ Screenshot showing the HTTP response headers obtained using cURL.
 
 `05-http-enumeration.png`
 
+<img width="1600" height="768" alt="05-http-enumeration png" src="https://github.com/user-attachments/assets/27182e3b-efe4-4621-9266-a153cc3ea659" />
+
+
 ## API Endpoint Enumeration
 
 Screenshot showing API references identified from the application's JavaScript code.
@@ -411,6 +426,9 @@ Screenshot showing API references identified from the application's JavaScript c
 **06 - API Endpoint Enumeration**
 
 `06-api-endpoint-enumeration.png`
+
+<img width="1600" height="768" alt="06-api-endpoint-enumeration png" src="https://github.com/user-attachments/assets/f294826e-a851-4a00-9d2b-55bdb5ce51f4" />
+
 
 ## Products API Response
 
@@ -420,13 +438,15 @@ Screenshot showing product information returned from the Products API.
 
 `07-api-products-response.png`
 
+<img width="1600" height="768" alt="07-api-products-response png" src="https://github.com/user-attachments/assets/02902ca4-28a0-4df0-93d8-5488f5aad9a9" />
+
+
 ## Product Search Enumeration
 
-Screenshot showing the product search endpoint responding to a controlled query.
+The product search endpoint responding to a controlled query.
 
 **08 - Product Search Enumeration**
 
-`08-product-search-enumeration.png`
 
 ## SQL Injection Authentication Bypass
 
@@ -436,6 +456,9 @@ Screenshot showing the successful authentication-bypass challenge after submitti
 
 `09-sql-injection-admin-login.png`
 
+<img width="1155" height="689" alt="09-sql-injection-admin-login" src="https://github.com/user-attachments/assets/514f4267-454a-4a7e-9ea0-5ee7e8d58590" />
+
+
 ## Administrator Access
 
 Screenshot showing the resulting administrator-level access within the intentionally vulnerable application.
@@ -443,6 +466,9 @@ Screenshot showing the resulting administrator-level access within the intention
 **10 - Administrator Access Impact**
 
 `10-admin-access-impact.png`
+
+<img width="1600" height="768" alt="10-admin-access-impact png" src="https://github.com/user-attachments/assets/5f39d831-de23-49e4-81d2-0edd88c8358f" />
+
 
 # Conclusion
 
